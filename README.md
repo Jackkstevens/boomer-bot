@@ -1,3 +1,5 @@
 # boomer-bot 
-<print>hello
+<print>hello 
+hi
+
 
