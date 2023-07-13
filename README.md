@@ -1,2 +1,3 @@
 # boomer-bot 
-hello
+<print>hello
+
